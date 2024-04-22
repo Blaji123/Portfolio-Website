@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import movie_logo from "./movie-logo.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -25,6 +26,7 @@ import bootstrap from "./tech/bootstrap.png";
 import threejs from "./tech/threejs.svg";
 import mysql from "./tech/mysql.png";
 import cpp from "./tech/cpp.png";
+import hotel_logo from "./hotellogo.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -37,6 +39,8 @@ import movies from "./movies.png";
 import ghid from "./ghid.png";
 
 export {
+  hotel_logo,
+  movie_logo,
   logo,
   backend,
   creator,

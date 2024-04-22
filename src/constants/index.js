@@ -22,6 +22,8 @@ import {
   hotel,
   movies,
   ghid,
+  movie_logo,
+  hotel_logo,
 } from "../assets";
 
 export const navLinks = [
@@ -186,6 +188,8 @@ const projects = [
     ],
     image: hotel,
     source_code_link: "https://github.com/Blaji123/DemoHotel",
+    link: "https://zealous-sea-0667a1a03.5.azurestaticapps.net",
+    logo: hotel_logo,
   },
   {
     name: "Movies",
@@ -211,6 +215,8 @@ const projects = [
     ],
     image: movies,
     source_code_link: "https://github.com/Blaji123/movies",
+    link: "https://white-bay-0799f6703.5.azurestaticapps.net",
+    logo: movie_logo,
   },
   {
     name: "Ghidul admiterii la informatica",
@@ -233,6 +239,8 @@ const projects = [
     image: ghid,
     source_code_link:
       "https://github.com/Blaji123/Ghidul-admiterii-la-informatica",
+    link: "https://blaji123.github.io/Ghidul-admiterii-la-informatica/",
+    logo: cns,
   },
 ];
 
