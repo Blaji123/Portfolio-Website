@@ -117,11 +117,11 @@ const technologies = [
 
 const educations = [
   {
-    title: "Middle School",
-    school_name: "Sc Gimnaziala Corneliu Coposu",
-    icon: generala,
-    iconBg: "#383E56",
-    date: "September 2015 - June 2019 ",
+    title: "University",
+    school_name: "Univesitatea Babes-Bolyai",
+    icon: ubb,
+    iconBg: "#ffffff",
+    date: "October 2023 - present",
   },
   {
     title: "High School",
@@ -131,11 +131,11 @@ const educations = [
     date: "September 2019 - June 2023",
   },
   {
-    title: "University",
-    school_name: "Univesitatea Babes-Bolyai",
-    icon: ubb,
-    iconBg: "#ffffff",
-    date: "October 2024 - present",
+    title: "Middle School",
+    school_name: "Sc Gimnaziala Corneliu Coposu",
+    icon: generala,
+    iconBg: "#383E56",
+    date: "September 2015 - June 2019 ",
   },
 ];
 
