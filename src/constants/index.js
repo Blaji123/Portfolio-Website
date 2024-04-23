@@ -119,6 +119,7 @@ const educations = [
   {
     title: "University",
     school_name: "Univesitatea Babes-Bolyai",
+    profile: "computer science",
     icon: ubb,
     iconBg: "#ffffff",
     date: "October 2023 - present",
@@ -126,16 +127,10 @@ const educations = [
   {
     title: "High School",
     school_name: "Colegiul National Silvania",
+    profile: "mathematics-informatics",
     icon: cns,
     iconBg: "#E6DEDD",
     date: "September 2019 - June 2023",
-  },
-  {
-    title: "Middle School",
-    school_name: "Sc Gimnaziala Corneliu Coposu",
-    icon: generala,
-    iconBg: "#383E56",
-    date: "September 2015 - June 2019 ",
   },
 ];
 

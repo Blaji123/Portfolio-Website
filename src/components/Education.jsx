@@ -33,6 +33,12 @@ const EducationCard = ({ education }) => {
           className="text-secondary text-[16px] font-semibold"
           style={{ margin: 0 }}
         >
+          {education.profile}
+        </p>
+        <p
+          className="text-secondary text-[16px] font-semibold"
+          style={{ margin: 0 }}
+        >
           {education.school_name}
         </p>
       </div>
@@ -44,7 +50,6 @@ const Education = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={styles.sectionSubText}>Schools I have been through</p>
         <h2 className={styles.sectionHeadText}>Education</h2>
       </motion.div>
       <div className="mt-20 flex flex-col">
